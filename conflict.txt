@@ -1,3 +1,7 @@
 when conflict happens.
 
+<<<<<<< HEAD
 updated by conflict
+=======
+created conflict branch
+>>>>>>> conflict
